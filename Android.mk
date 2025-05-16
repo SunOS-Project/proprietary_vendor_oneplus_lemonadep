@@ -20,7 +20,7 @@ $(call add-radio-file-sha1-checked,radio/keymaster.img,06fa5b1a49a78c094f22772fe
 $(call add-radio-file-sha1-checked,radio/modem.img,2116174f33a6ae91ec092778850b70b2129cfab0)
 $(call add-radio-file-sha1-checked,radio/multiimgoem.img,5f84225b92ad4e4797cf2a213f7cacf66184a9cc)
 $(call add-radio-file-sha1-checked,radio/oplus_sec.img,70c1fb07ea5d63af49361d57b2a5f5d22a7b5612)
-$(call add-radio-file-sha1-checked,radio/oplusstanvbk.img,12ed17ba5c0bfae6702218d36267d87eac9fdd38)
+$(call add-radio-file-sha1-checked,radio/oplusstanvbk.img,d1569f3e1a5cfe383316047529bbf3a4a1c144e3)
 $(call add-radio-file-sha1-checked,radio/qupfw.img,7835735807c0299922772604bcd7e4b34e33bc7a)
 $(call add-radio-file-sha1-checked,radio/qweslicstore.img,180cf2903b9872499d05eeef08c472575fa3225e)
 $(call add-radio-file-sha1-checked,radio/shrm.img,73fdebc9233548563575c7517b875589243ec974)
